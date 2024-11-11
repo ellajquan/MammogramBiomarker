@@ -17,4 +17,4 @@ breast_cancer_model/
 │   ├── attention_visualizer.py  # Functions to visualize attention maps
 │   ├── training_utils.py    # Helper functions for training loop, early stopping, checkpoints
 │
-└── checkpoints/             # (Optional) Directory to store local checkpoints
+└── checkpoints/             # (Optional) Directory to store local checkpoints 
