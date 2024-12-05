@@ -8,7 +8,7 @@ The objective of my research is to identify older women with early-stage breast 
 # Study Design
 Our approach is to develop and validate an AI-based algorithm utilizing convolutional neural networks, a deep learning framework optimized for image analysis. The study involves supervised learning using labeled mammograms and external validation on an independent cohort for generalization. We hypothesize that this model can accurately and reliably identify low-risk breast cancer cases, paving the way for active surveillance strategies.
 
-# Data Structure
+# Model Structure
 ```
 breast_cancer_model/
 │
